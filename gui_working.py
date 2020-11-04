@@ -8,7 +8,7 @@ Credentials = ServiceAccountCredentials.from_json_keyfile_name('Key.json', scope
 
 gc = gspread.authorize(Credentials)
 
-sheet = gc.open('videoplan ').sheet1
+sheet = gc.open('test').sheet1
 
 
 class App(tk.Frame):
