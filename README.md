@@ -10,6 +10,6 @@ We ain't just working on bloody glados
 
 #### Features
 
-- Send signals to the control sever using (somthing)
+- Send signals to the control sever using ssh
 - Let the user select which signals to send
 - Let the user control multipal motors at once
